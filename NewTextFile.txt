@@ -1,1 +1,1 @@
-"New File Testing" 
+"This is the new message!" 
